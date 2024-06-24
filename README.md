@@ -18,7 +18,7 @@ How to Play:
 
     Clone the repository to your local machine.
     Open index.html in your web browser to start playing the Simon Says Game.
-    Watch and listen to the sequence of colors flashed by the game.
+    Watch  the sequence of colors flashed by the game.
     Repeat the sequence correctly by clicking the buttons in the same order.
     The game continues with longer sequences as you progress. How far can you go?
 
